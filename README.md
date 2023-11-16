@@ -7,6 +7,8 @@ Live Link:
 
 
 ![Screenshot 2023-11-15 193444](https://github.com/afj511/AvaJ-HW-Challenge-11-Note-Taker/assets/143137596/5660c921-f5ee-46a5-8d1d-664ed8b6cb66)
+
 Take notes using the deployed link.
+![Screenshot 2023-11-15 194713](https://github.com/afj511/AvaJ-HW-Challenge-11-Note-Taker/assets/143137596/2051d641-6636-4905-88a9-0a2fdcb4a8f1)
 
 You should be able to input your notes with a title and note text.
